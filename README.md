@@ -1,3 +1,3 @@
 # INF029-JaquelineGabriela
 
-Este é o repositório da aluna Jaqueline Gabriela
+Este é o repositório da disciplina de Laboratório de Programação.
