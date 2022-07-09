@@ -20,8 +20,8 @@
 // Última atualização: 07/05/2021
 
 // #################################################
-#ifndef TRABALHO1_JAQUELINECOSTA20212160025_H
-#define TRABALHO1_JAQUELINECOSTA20212160025_H
+#ifndef JaquelineCosta20212160025
+#define JaquelineCosta20212160025
 
 typedef struct DQ
 {
