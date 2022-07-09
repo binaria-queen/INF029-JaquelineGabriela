@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-//gcc novocorretor.c JaquelineGabriela20212160025.c -o t1 -lm
+//gcc novocorretor.c JaquelineCosta20212160025.c -o t1 -lm
 //renomeie o arquivo do include abaixo para PrimeiroUltimoNomeMATRICULA.h
-#include "JaquelineGabriela20212160025.h"
+#include "JaquelineCosta20212160025.h"
 
 void testQ1();
 void testQ2();
